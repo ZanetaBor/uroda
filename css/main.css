@@ -159,10 +159,10 @@ a.hero-link:hover {
     transition: .35s ease-in-out;
 }
 
-img .hero-article_img {
+.hero-article_img {
     display: flex;
     height: auto;
-    /* max-width: 10px; */
+    width: 100%; 
 }
 
 .btn-position {
